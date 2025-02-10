@@ -10,7 +10,7 @@ I'm passionate about creating beautiful, user-friendly experiences and solving c
 ## 🚀 What I'm Working On
 
 ### **Pantry Pal**
-📦 [Pantry Pal]
+📦 [Pantry Pal](https://www.pantrypal.com.au/)
 A project that helps you organize your pantry, track expiration dates, and suggest recipes based on what you have. It's the perfect blend of my two passions: cooking and coding!
 
 ### **VS Code Extensions**
