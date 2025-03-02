@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Harlen]!
+# 👋 Hi, I'm Harlen!
 
 🎨 UX Designer | 💻 Full Stack Developer (React, TypeScript, & Backend Magic)  
 🍳 Cooking Enthusiast | 🎮 Design Enthusiast
